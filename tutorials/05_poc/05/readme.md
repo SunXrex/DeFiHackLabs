@@ -43,3 +43,22 @@ This article is published on XREX and [WTF Academy](https://github.com/AmazingAn
 <div align=center>
 <img src="https://user-images.githubusercontent.com/52526645/211204852-4fa65835-17f7-4c91-80ab-79f5b46125df.png" alt="Cover" width="80%"/>
 </div>
+
+## Extended learning
+- Foundry trace
+    - The function traces of the transaction can also be listed using Foundry, as follows:
+    
+    `cast run 0xd48758ef48d113b78a09f7b8c7cd663ad79e9965852e872fdfc92234c3e598d2 --quick --rpc-url https://rpc.ankr.com/bsc`
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/211562868-12fde773-948c-47a9-acaf-6f744438925e.png" alt="Cover" width="80%"/>
+</div>
+
+- Foundry debug
+    - You can also use Foundry to debug transaction, as follows:
+    
+    `cast run 0xd48758ef48d113b78a09f7b8c7cd663ad79e9965852e872fdfc92234c3e598d2 --quick --debug  --rpc-url https://rpc.ankr.com/bsc`
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/211565713-fdf3784f-da54-42e8-ad60-591ecac38c15.png" alt="Cover" width="80%"/>
+</div>
