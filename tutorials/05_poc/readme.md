@@ -45,4 +45,22 @@ Author: [Sun](https://twitter.com/1nf0s3cpt)
 </div>
 
 ## 延伸學習
-### Foundry trace & debug
+- Foundry trace
+    - 使用 Foundry 也可以列出該筆交易的 function traces，使用方式如下:
+    
+    `cast run 0xd48758ef48d113b78a09f7b8c7cd663ad79e9965852e872fdfc92234c3e598d2 --quick --rpc-url https://rpc.ankr.com/bsc`
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/211562868-12fde773-948c-47a9-acaf-6f744438925e.png" alt="Cover" width="80%"/>
+</div>
+
+- Foundry debug
+    - 也可以使用 Foundry 來 debug transaction，使用方式如下:  
+    
+    `cast run 0xd48758ef48d113b78a09f7b8c7cd663ad79e9965852e872fdfc92234c3e598d2 --quick --debug  --rpc-url https://rpc.ankr.com/bsc`
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/211565713-fdf3784f-da54-42e8-ad60-591ecac38c15.png" alt="Cover" width="80%"/>
+</div>
+
+
