@@ -37,7 +37,7 @@ This article is published on XREX and [WTF Academy](https://github.com/AmazingAn
 </div>
 
 - Writing POC
-    -After analyzing the attack process above, the logic of writing the POC is to call the `pancakeCall` of the MEV bot contract and then bring in the corresponding parameters. The key is `_data` to specify the receiving wallet address, and then the contract must have token0, token1 Function to satisfy the contract logic. You can try to write it yourself.
+   - After analyzing the attack process above, the logic of writing the POC is to call the `pancakeCall` of the MEV bot contract and then bring in the corresponding parameters. The key is `_data` to specify the receiving wallet address, and then the contract must have token0, token1 Function to satisfy the contract logic. You can try to write it yourself.
     - Answer: [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BNB48MEVBot_exp.sol).
     
 <div align=center>
