@@ -296,3 +296,10 @@ Author: [Numen](https://twitter.com/numencyber)
 
 
 <p>Although the Move language has taken a lot of consideration for programmers at the security level, there is no a completely secure language or a completely secure program in the world. We still recommend that developers of Move smart contracts use a third-party security company to audit their codes and write the specification language.</p>
+
+## Resources
+
+[Awesome-move](https://github.com/MystenLabs/awesome-move)
+
+[Securing Move](https://medium.com/aptoslabs/securing-move-f81099f5e08c)
+
