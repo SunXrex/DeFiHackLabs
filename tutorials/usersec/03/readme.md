@@ -2,8 +2,6 @@
 
 Author: [GoPlus Security](https://twitter.com/GoplusSecurity)
 
-This article is published on GoPlus Security
-
 **Take a deep dive into the code for it and be a Web3 guy with security awareness and security literacy.**
 
 If you are an active user for the decentralized thing, you are definitely familiar with a token scam named Honeypot. In case that you haven't heard the term, we 're now here to do a brief intro here for it. It's a metaphor that refers to something that is designed to attract someone: in other words, it's a trap. In the case of a token scam, a honeypot happens when the contract creator places elaborate traps within the contract code to prevent speculators from selling their recently purchased token. This can come in the form of heavy internal commission upon transfers, or extreme limits on selling (both time based and % based).
