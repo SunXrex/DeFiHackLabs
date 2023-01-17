@@ -34,7 +34,7 @@ While the crypto attacks becomes more and more innovative and complicated,
 
 Goplus will be kicking off a new security risks series debuted from this piece, which as below takes a deep dive into the code on looking at how a new way of honeypot token's malicious logic could work.
 
-That honeypot token is on BSC and the contract is 0x8f96e9348898b498a2b4677f4c8abdad64e4349f
+That honeypot token is on BSC and the contract is [0x8f96e9348898b498a2b4677f4c8abdad64e4349f](https://bscscan.com/address/0x8f96e9348898b498a2b4677f4c8abdad64e4349f#code)
 
 The address that's holding the token has been defined as a condition by the contract creator, which requires the cumulative amount of the tokens transferred out could not exceed the max limit. Otherwise, the transaction would fail. We see it as a typical honeypot scheme as the holders of the token would wind up with failing to sell their assets.
 
