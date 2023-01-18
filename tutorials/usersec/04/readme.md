@@ -96,7 +96,18 @@ https://etherscan.io/tx/0xbf2542540ce22abe7a1822e15d67a50b73a7ba18e036bb305103e5
 <img src="https://user-images.githubusercontent.com/52526645/212598606-442647a7-30c7-48ef-abfc-1b6a9a8827f9.png" alt="Cover" width="70%"/>
 </div>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/213104333-32cb879f-1a81-47e1-a34e-0afcfaaed1fa.png" alt="Cover" width="70%"/>
+</div>
+<p align="center""> Call Trace </p>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/52526645/213104607-aa91daf7-4821-4df7-8db2-3c01e70d7b83.png" alt="Cover" width="70%"/>
+</div>
+<p align="center""> Decompiled snippet </p>
+
 点开一看，好家伙！通过对Seaport合约发起了冒充交易空投的，这种方式应该可以逃过NFT平台的反垃圾空投的检测。再仔细看这笔交易，除了受害者外，还有其他几个地址也收到了。
+                                                     
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/52526645/212598659-9527183c-0997-4b1c-a357-99c4e36a3796.png" alt="Cover" width="70%"/>
