@@ -1,15 +1,15 @@
-空投钓鱼分析: 黑客目标精准指向这些人
+# Lesson 4: 空投钓鱼分析: 黑客目标精准指向这些人
 
 
-**Scam Sniffer** 
+Author: [Scam Sniffer](https://twitter.com/scamsniffer_)
 
-最近精准定向的钓鱼活动频发！这不周末，又是14个BAYC被盗！
+最近有很多针对特定 NFT 持有者群体的空投网络钓鱼诈骗，让我们深入研究案例，看看诈骗是如何进行的。 这一切都始于 12 月 3 日，我们的 Scam Sniffer Alert Bot 检测到有一起网络钓鱼事件，最终导致 21 个 CloneX 被盗，价值 168 ETH。
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/52526645/212598204-a2855b53-dc9a-4902-941a-bc48c4ff0dc1.png" alt="Cover" width="60%"/>
 </div>
 
-回到上周，我照常扫了一眼我们的被盗NFT Alert Bot，结果看到这一条推文。有21个CloneX被盗，发到群里跟余弦经过一段时间分析后，定位到了原始的异常交易：
+在白帽群聊中与 [Cos(余弦)](https://twitter.com/evilcos) 讨论后，我们成功识别出发生在 12 月 8 日的原始的异常交易 Tx:
 
 https://etherscan.io/tx/0xbf2542540ce22abe7a1822e15d67a50b73a7ba18e036bb305103e51606122b69
 
